@@ -39,8 +39,6 @@ Thumbs.db
 desktop.ini
 
 # Project Specific
-*.spec
-*.exe
 *.log
 bygone_operations.log
 ByGoneHardwareBackup.json
@@ -56,7 +54,6 @@ build/
 
 # PyInstaller
 *.manifest
-*.spec
 
 # Windows
 $RECYCLE.BIN/
